@@ -54,3 +54,23 @@ list-style-type: none;
 .cards strong {
   display: block;
   margin-bottem: 1rem;
+
+font-size: 1.125rem;
+}
+
+.cards dl{
+margin-bottem: 125rem
+}
+
+cards dt {
+
+  display: inline-block
+  width:6em;
+  font-style: italic;
+}
+
+.cards dd {
+  display: inline-block;
+  margin:0;
+  min-width: 9em;
+}
