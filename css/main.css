@@ -29,7 +29,7 @@ list-style-type: none;
   max-width: 20em;
   padding: 1em;
   background-color: #fff;
-  border: 3px solid #e2e2e2
+  border: 3px solid #e2e2e2;
   border-radius: 10px;
 }
 
@@ -38,7 +38,7 @@ list-style-type: none;
 }
 
 .cards {
-  padding: 0
+  padding: 0;
   list-style-type: none;
   text-align: center;
 }
@@ -92,6 +92,6 @@ cards dt {
 }
 
 .cards a:hover {
-  backround-color: #333;
+  background-color: #333;
   color: #fff;
 }
