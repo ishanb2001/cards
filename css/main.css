@@ -9,6 +9,10 @@ html {
 html {
   box-sizing:
   box-sizing: border-box;
+  backround-color: #f2f2f2
+  font-family: Georgia, serif;
+  line-height: 1.5;
+
   }
 
   *, *::before, *::after {
