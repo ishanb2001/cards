@@ -74,3 +74,21 @@ cards dt {
   margin:0;
   min-width: 9em;
 }
+
+.cards div {
+  text-align:canter;
+}
+
+.cards a{
+  display: inline-blocks
+  padding: .5em .75em;
+  backround-color: #ccc
+  border-radius: 4px;
+  color : #000;
+  text decoration: none:inherit;
+}
+
+.cards a:hover {
+  backround-color: #333
+  color: #fff;
+}
