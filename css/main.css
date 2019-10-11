@@ -46,28 +46,29 @@ list-style-type: none;
 .cards li {
   border: 3px solid #e2e2e2;
   border-radius: 10px;
-  text-align:left;
+  text-align: left;
 }
 
 .cards img {
   display: block;
   margin: 0 auto 1rem;
+}
 
 .cards strong {
   display: block;
-  margin-bottem: 1rem;
+  margin-bottom: 1rem;
 
 font-size: 1.125rem;
 }
 
-.cards dl{
-margin-bottem: 125rem
+.cards dl {
+margin-bottom: 1rem;
 }
 
 cards dt {
 
-  display: inline-block
-  width:6em;
+  display: inline-block;
+  width: 6em;
   font-style: italic;
 }
 
@@ -78,19 +79,19 @@ cards dt {
 }
 
 .cards div {
-  text-align:canter;
+  text-align: center;
 }
 
-.cards a{
-  display: inline-blocks
+.cards a {
+  display: inline-block;
   padding: .5em .75em;
-  backround-color: #ccc
+  background-color: #ccc;
   border-radius: 4px;
   color : #000;
-  text decoration: none:inherit;
+  text decoration: none;
 }
 
 .cards a:hover {
-  backround-color: #333
+  backround-color: #333;
   color: #fff;
 }
