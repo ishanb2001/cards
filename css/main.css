@@ -1,26 +1,19 @@
 html {
   box-sizing: border-box;
+  background-color: #f2f2f2
+  font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-html {
-  box-sizing: border-box;
-  background-color: #f2f2f2;
-  font-family: Georgia, serif;
-  line-height: 1.5;
-  }
-
-  *, *::before, *::after {
-    box-sizing: inherit;
-  }
-
 .cards {
 margin: 0;
 padding: 0;
 list-style-type: none;
+text-align: center;
 }
 
 .cards li {
@@ -65,7 +58,7 @@ font-size: 1.125rem;
 margin-bottom: 1rem;
 }
 
-cards dt {
+.cards dt {
 
   display: inline-block;
   width: 6em;
@@ -88,7 +81,7 @@ cards dt {
   background-color: #ccc;
   border-radius: 4px;
   color : #000;
-  text decoration: none;
+  text-decoration: none;
 }
 
 .cards a:hover {
